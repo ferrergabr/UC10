@@ -13,10 +13,10 @@
 
 
 
-version: '3.1'
+  version: '3.1'
 
 
-services: 
+  services: 
     db:
         image: mysql:latest
         restart: always
